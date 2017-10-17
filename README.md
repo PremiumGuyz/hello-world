@@ -1,2 +1,4 @@
 # hello-world
-First GitHub repository.
+
+Hi guyz,
+My name is PremiumGuyz my friends call me Premium though
